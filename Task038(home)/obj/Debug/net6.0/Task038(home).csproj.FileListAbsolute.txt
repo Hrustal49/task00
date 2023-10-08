@@ -1,0 +1,15 @@
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\bin\Debug\net6.0\Task038(home).exe
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\bin\Debug\net6.0\Task038(home).deps.json
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\bin\Debug\net6.0\Task038(home).runtimeconfig.json
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\bin\Debug\net6.0\Task038(home).dll
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\bin\Debug\net6.0\Task038(home).pdb
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).csproj.AssemblyReference.cache
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).AssemblyInfoInputs.cache
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).AssemblyInfo.cs
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).csproj.CoreCompileInputs.cache
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).dll
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\refint\Task038(home).dll
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).pdb
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\Task038(home).genruntimeconfig.cache
+C:\Users\Анастасия\Desktop\Task00\Task038(home)\obj\Debug\net6.0\ref\Task038(home).dll
